@@ -1,39 +1,44 @@
 {
   "metadata": {
-    "title": "అందరిలో నువ్వున్నావు, నీలోనే ప్రపంచముంది!",
-    "description": "నిజమైన సంతోషం, ప్రశాంతత ఎక్కడున్నాయి? మీ అంతరంగంలోనే వాటిని కనుగొనండి! #SirivennelaPhilosophy #SelfDiscovery #InnerPeace #TeluguWisdom #MeaningOfLife",
-    "tags": ["sirivennela philosophy", "self discovery", "inner peace", "telugu wisdom", "meaning of life", "introspection", "youtube shorts telugu"]
+    "title": "పెట్టుబడుల ప్రపంచం: ఎక్కడ ప్రారంభించాలి?",
+    "description": "పెట్టుబడుల ప్రపంచంలోకి అడుగు పెట్టడానికి మీకు అవసరమైన ప్రాథమిక సమాచారం. ఎక్కడ ప్రారంభించాలి, ఎలా తెలివిగా పెట్టుబడి పెట్టాలి? #InvestmentBasics #BeginnerInvesting #StockMarket #MutualFunds #TeluguInvesting",
+    "tags": ["telugu", "investing", "beginner", "stock market", "mutual funds", "financial growth", "shorts"]
   },
   "scenes": [
     {
-      "text": "ప్రపంచాన్ని అర్థం చేసుకోవడానికి మనం ఎన్నో ప్రయత్నాలు చేస్తాం. బయట సంతోషాన్ని వెతుకుతాం.",
-      "image_keyword": "person looking at a complex globe with a puzzled expression, searching for answers",
-      "subtitle": "We make many efforts to understand the world. We search for happiness outside."
+      "text": "పెట్టుబడి పెట్టాలని ఆలోచిస్తున్నారా? ఎక్కడ ప్రారంభించాలో తెలియడం లేదా? ఈ వీడియో మీ కోసమే!",
+      "image_keyword": "person looking at investment options",
+      "subtitle": "Thinking of investing? Don't know where to start? This video is for you!"
     },
     {
-      "text": "కానీ అసలు సత్యం ఎక్కడ ఉంది? నిజమైన ప్రపంచం ఎక్కడ దాగి ఉంది?",
-      "image_keyword": "person standing in a bustling city crowd, but feeling alone and contemplative",
-      "subtitle": "But where is the real truth? Where is the real world hidden?"
+      "text": "మొదట, పెట్టుబడి పెట్టడానికి ముందు మీ ఆర్థిక లక్ష్యాలను స్పష్టంగా నిర్దేశించుకోండి.",
+      "image_keyword": "target with money arrow",
+      "subtitle": "First, clearly define your financial goals before investing."
     },
     {
-      "text": "మనలో చాలామంది గుర్తించని ఒక గొప్ప సత్యం ఉంది.",
-      "image_keyword": "person gazing into a calm, reflective pool of water, seeing their own reflection clearly",
-      "subtitle": "There is a great truth that many of us do not recognize."
+      "text": "రెండవది, విభిన్న రకాల పెట్టుబడుల గురించి తెలుసుకోండి: స్టాక్స్, మ్యూచువల్ ఫండ్స్, రియల్ ఎస్టేట్ వంటివి.",
+      "image_keyword": "various investment icons",
+      "subtitle": "Second, learn about different types of investments: stocks, mutual funds, real estate, etc."
     },
     {
-      "text": "అంతరంగ విజ్ఞాని, మన ప్రియ కవి సిరివెన్నెల సీతారామశాస్త్రి గారు చెప్పినట్లు: 'జగమంత కుటుంబం నాది, ఏకాకి జీవితం నాది. సంసార సాగరం నాది..'",
-      "image_keyword": "person sitting on a quiet beach, watching the vast ocean and contemplating the world",
-      "subtitle": "As the spiritual scholar, our beloved poet Sirivennela Seetharama Sastry garu said: 'The whole world is my family, solitary life is mine. Life is an ocean, the swimmer is my God.'"
+      "text": "మూడవది, చిన్న మొత్తాలతో ప్రారంభించండి. ఒకేసారి పెద్ద మొత్తాలు పెట్టొద్దు.",
+      "image_keyword": "person putting small amount in investment jar",
+      "subtitle": "Third, start with small amounts. Don't put in large amounts all at once."
     },
     {
-      "text": "ఈ లోకంలో ప్రతి మనిషి, ప్రతి అనుభవం మీలోనే ప్రతిబింబిస్తాయి. మీ అంతర్గత ప్రపంచాన్ని అన్వేషించండి.",
-      "image_keyword": "diverse group of people's faces subtly superimposed or blended into one another, symbolizing interconnectedness",
-      "subtitle": "Every person, every experience in this world is reflected within you. Explore your inner world."
+      "text": "నాల్గవది, మీ పెట్టుబడులను వైవిధ్యపరచండి. ఒకేచోట మీ డబ్బు అంతా పెట్టకండి.",
+      "image_keyword": "diversified investment portfolio chart",
+      "subtitle": "Fourth, diversify your investments. Don't put all your money in one place."
     },
     {
-      "text": "మీలోని శక్తిని, జ్ఞానాన్ని గుర్తించండి. అప్పుడు ఈ జగమంతా మీ ఇంట్లోని ఒక భాగం అవుతుంది!",
-      "image_keyword": "person with a gentle smile, extending their hand towards a rising sun, symbolizing inner light and acceptance",
-      "subtitle": "Recognize the power and wisdom within you. Then this entire world will become a part of your home!"
+      "text": "చివరగా, నిపుణుల సలహా తీసుకోండి. వారు మీకు సరైన మార్గదర్శకత్వం ఇవ్వగలరు.",
+      "image_keyword": "financial advisor explaining investment to client",
+      "subtitle": "Finally, seek expert advice. They can provide you with the right guidance."
+    },
+    {
+      "text": "పెట్టుబడి పెట్టడం ద్వారా మీ డబ్బును పెంచుకోవచ్చు. జ్ఞానంతో, జాగ్రత్తగా అడుగు వేయండి!",
+      "image_keyword": "money growing tree",
+      "subtitle": "You can grow your money by investing. Step wisely and carefully with knowledge!"
     }
   ]
 }

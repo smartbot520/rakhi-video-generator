@@ -1,39 +1,44 @@
 {
   "metadata": {
-    "title": "ఆర్థిక లక్ష్యాలు: వాటిని ఎలా చేరుకోవాలి?",
-    "description": "మీ ఆర్థిక లక్ష్యాలను ఎలా నిర్దేశించుకోవాలి, ప్రణాళిక వేసుకోవాలి, మరియు వాటిని ఎలా చేరుకోవాలో తెలుసుకోండి. మీ భవిష్యత్తును మీరే రూపొందించుకోండి! #FinancialGoals #GoalSetting #FinancialPlanning #TeluguFinance #FuturePlanning",
-    "tags": ["telugu", "financial goals", "goal setting", "financial planning", "future", "shorts"]
+    "title": "మానసిక ఆరోగ్యం: స్ట్రెస్ తగ్గించుకోవడం ఎలా?",
+    "description": "రోజువారీ ఒత్తిడిని సమర్థవంతంగా నిర్వహించడానికి మరియు మీ మానసిక ఆరోగ్యాన్ని పెంపొందించుకోవడానికి ప్రాక్టికల్ చిట్కాలు. ప్రశాంతమైన మనస్సు, ఆరోగ్యకరమైన జీవితం! #MentalHealth #StressRelief #Wellbeing #TeluguWellness #Mindfulness",
+    "tags": ["telugu", "mental health", "stress", "relaxation", "wellbeing", "shorts"]
   },
   "scenes": [
     {
-      "text": "మీరు ఆర్థికంగా ఎదగాలని కోరుకుంటున్నారా? మీ లక్ష్యాలను చేరుకోవడానికి కొన్ని చిట్కాలు!",
-      "image_keyword": "person climbing steps towards financial success",
-      "subtitle": "Do you want to grow financially? Here are some tips to reach your goals!"
+      "text": "ఈ రోజుల్లో ఒత్తిడి సర్వసాధారణం. కానీ దాన్ని ఎలా తగ్గించుకోవాలో తెలుసుకోవడం ముఖ్యం! మీ మానసిక ఆరోగ్యం కోసం ఈ చిట్కాలు.",
+      "image_keyword": "person feeling stressed",
+      "subtitle": "Stress is common these days. But it's important to know how to reduce it! Here are tips for your mental health."
     },
     {
-      "text": "మొదట, మీ లక్ష్యాలను స్పష్టంగా నిర్దేశించుకోండి. అవి చిన్నవి కావచ్చు, పెద్దవి కావచ్చు, కానీ స్పష్టంగా ఉండాలి.",
-      "image_keyword": "SMART goals concept",
-      "subtitle": "First, set your goals clearly. They can be small or large, but they must be clear."
+      "text": "మొదటిది, శారీరక శ్రమ చేయండి. వ్యాయామం ఎండార్ఫిన్లను విడుదల చేసి, మూడ్‌ను మెరుగుపరుస్తుంది.",
+      "image_keyword": "person exercising happily",
+      "subtitle": "First, engage in physical activity. Exercise releases endorphins and improves mood."
     },
     {
-      "text": "రెండవది, ఒక బడ్జెట్‌ను రూపొందించుకోండి. మీ ఆదాయం, ఖర్చులను బట్టి ఒక ప్రణాళిక ఉండాలి.",
-      "image_keyword": "person creating a budget",
-      "subtitle": "Second, create a budget. You should have a plan based on your income and expenses."
+      "text": "రెండవది, ధ్యానం లేదా మైండ్‌ఫుల్‌నెస్ ప్రాక్టీస్ చేయండి. ఇది మీ మనస్సును ప్రశాంతంగా ఉంచుతుంది.",
+      "image_keyword": "person meditating outdoors",
+      "subtitle": "Second, practice meditation or mindfulness. This keeps your mind calm."
     },
     {
-      "text": "మూడవది, పొదుపు చేయడం ప్రారంభించండి. చిన్న మొత్తంతోనైనా, క్రమం తప్పకుండా పొదుపు చేయండి.",
-      "image_keyword": "person putting coins in piggy bank",
-      "subtitle": "Third, start saving. Even with a small amount, save regularly."
+      "text": "మూడవది, ఇతరులతో మాట్లాడండి. స్నేహితులు, కుటుంబ సభ్యులు లేదా ఒక నిపుణుడితో మీ భావాలను పంచుకోండి.",
+      "image_keyword": "people talking and sharing",
+      "subtitle": "Third, talk to others. Share your feelings with friends, family, or a professional."
     },
     {
-      "text": "చివరగా, మీ డబ్బును పెట్టుబడి పెట్టండి. జ్ఞానంతో పెట్టుబడి పెడితే, మీ డబ్బు పెరుగుతుంది.",
-      "image_keyword": "money growing on a plant",
-      "subtitle": "Finally, invest your money. If you invest wisely, your money will grow."
+      "text": "నాలుగవది, మీకంటూ సమయం కేటాయించుకోండి. మీకు నచ్చిన హాబీలు, పనులు చేయండి.",
+      "image_keyword": "person enjoying hobby",
+      "subtitle": "Fourth, set aside time for yourself. Do hobbies and activities you enjoy."
     },
     {
-      "text": "మీ ఆర్థిక లక్ష్యాలు ఎంత పెద్దవైనా, వాటిని చేరుకోవడానికి ప్రణాళిక, క్రమశిక్షణ అవసరం. మీరు సిద్ధంగా ఉన్నారా?",
-      "image_keyword": "person reaching for a star with money",
-      "subtitle": "No matter how big your financial goals are, planning and discipline are needed to reach them. Are you ready?"
+      "text": "చివరగా, కృతజ్ఞతతో ఉండండి. ప్రతిరోజూ మీరు కృతజ్ఞతతో ఉన్న 3 విషయాలను గుర్తుచేసుకోండి.",
+      "image_keyword": "person writing gratitude journal",
+      "subtitle": "Finally, be grateful. Every day, recall 3 things you are grateful for."
+    },
+    {
+      "text": "మానసిక ఆరోగ్యం శారీరక ఆరోగ్యం వలె ముఖ్యమైనది. మిమ్మల్ని మీరు జాగ్రత్తగా చూసుకోండి!",
+      "image_keyword": "healthy mind and body",
+      "subtitle": "Mental health is as important as physical health. Take good care of yourself!"
     }
   ]
 }

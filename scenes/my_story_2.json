@@ -1,39 +1,44 @@
 {
   "metadata": {
-    "title": "అప్పుల ఊబి నుంచి బయటపడటం ఎలా? - మీ ఆర్థిక స్వాతంత్ర్యం వైపు!",
-    "description": "అప్పుల నుంచి బయటపడి ఆర్థిక స్వాతంత్ర్యం పొందడానికి ప్రణాళిక. తెలివైన నిర్ణయాలతో మీ అప్పులను తగ్గించుకోండి! #DebtFree #FinancialFreedom #DebtManagement #TeluguTips #GetOutOfDebt",
-    "tags": ["telugu", "debt management", "financial freedom", "personal finance", "shorts", "debt free"]
+    "title": "మంచి నిద్ర కోసం చిట్కాలు: ప్రశాంతమైన రాత్రి నిద్ర",
+    "description": "మీ నిద్ర నాణ్యతను మెరుగుపరచుకోవడానికి సులభమైన మరియు ప్రభావవంతమైన చిట్కాలు. మంచి నిద్రతో మీ ఆరోగ్యాన్ని మెరుగుపరుచుకోండి! #SleepTips #GoodSleep #InsomniaRelief #TeluguHealth #RestfulSleep",
+    "tags": ["telugu", "sleep", "insomnia", "rest", "health", "shorts"]
   },
   "scenes": [
     {
-      "text": "అప్పుల ఊబిలో చిక్కుకున్నారా? బయటపడటం ఎలాగో తెలియడం లేదా? ఈ చిట్కాలు మీకు సహాయపడతాయి!",
-      "image_keyword": "person climbing out of debt pit",
-      "subtitle": "Stuck in a debt trap? Don't know how to get out? These tips will help you!"
+      "text": "మంచి నిద్ర లేక ఇబ్బంది పడుతున్నారా? ప్రశాంతమైన రాత్రి నిద్ర కోసం ఈ చిట్కాలు పాటించండి!",
+      "image_keyword": "person struggling to sleep",
+      "subtitle": "Are you struggling to get good sleep? Follow these tips for a peaceful night's sleep!"
     },
     {
-      "text": "మొదట, మీకున్న అప్పులన్నిటినీ జాబితా చేయండి. వాటి వడ్డీ రేట్లను కూడా పక్కన రాయండి.",
-      "image_keyword": "list of debts with interest rates",
-      "subtitle": "First, list all your debts. Write down their interest rates too."
+      "text": "మొదట, రోజూ ఒకే సమయానికి పడుకుని, ఒకే సమయానికి లేవడానికి ప్రయత్నించండి. ఇది మీ శరీర గడియారాన్ని క్రమబద్ధీకరిస్తుంది.",
+      "image_keyword": "alarm clock with consistent sleep schedule",
+      "subtitle": "First, try to go to bed and wake up at the same time every day. This regulates your body clock."
     },
     {
-      "text": "రెండవది, ఎక్కువ వడ్డీ ఉన్న అప్పులను ముందుగా తీర్చడానికి ప్రాధాన్యత ఇవ్వండి. దీనిని 'స్నోబాల్' పద్ధతి అంటారు.",
-      "image_keyword": "snowball rolling down hill with money",
-      "subtitle": "Second, prioritize paying off high-interest debts first. This is called the 'snowball' method."
+      "text": "రెండవది, పడుకునే ముందు కెఫిన్, ఆల్కహాల్‌కు దూరంగా ఉండండి. ఇవి మీ నిద్రకు ఆటంకం కలిగించవచ్చు.",
+      "image_keyword": "no coffee before bed",
+      "subtitle": "Second, avoid caffeine and alcohol before bed. These can disrupt your sleep."
     },
     {
-      "text": "మూడవది, మీ ఖర్చులను తగ్గించుకుని, ఆదా చేసిన డబ్బును అప్పులు తీర్చడానికి ఉపయోగించండి.",
-      "image_keyword": "person cutting expenses with scissors",
-      "subtitle": "Third, reduce your expenses and use the saved money to pay off debts."
+      "text": "మూడవది, పడుకునే గది చీకటిగా, నిశ్శబ్దంగా, చల్లగా ఉండేలా చూసుకోండి. ఇది నిద్రకు అనుకూలమైన వాతావరణం.",
+      "image_keyword": "dark quiet cool bedroom",
+      "subtitle": "Third, make sure your bedroom is dark, quiet, and cool. This is a favorable environment for sleep."
     },
     {
-      "text": "అవసరమైతే, ఆర్థిక నిపుణుడి సలహా తీసుకోండి. వారు మీకు సరైన మార్గాన్ని చూపించగలరు.",
-      "image_keyword": "financial advisor giving advice",
-      "subtitle": "If necessary, seek advice from a financial expert. They can show you the right path."
+      "text": "నాలుగవది, పడుకునే ముందు ఫోన్, టీవీ వంటి ఎలక్ట్రానిక్ పరికరాలను వాడొద్దు. బ్లూ లైట్ నిద్రకు ఆటంకం.",
+      "image_keyword": "no phone before bed",
+      "subtitle": "Fourth, avoid using electronic devices like phones and TVs before bed. Blue light disrupts sleep."
     },
     {
-      "text": "అప్పులు లేని జీవితం ఒక కల కాదు, అది సాధ్యం! ఈ అడుగులు వేసి మీ ఆర్థిక స్వాతంత్ర్యాన్ని పొందండి!",
-      "image_keyword": "person breaking free from chains of debt",
-      "subtitle": "A debt-free life is not a dream, it's possible! Take these steps and gain your financial freedom!"
+      "text": "చివరగా, పడుకునే ముందు గోరువెచ్చని నీటితో స్నానం చేయడం లేదా పుస్తకం చదవడం వంటివి అలవాటు చేసుకోండి.",
+      "image_keyword": "person reading book in bed",
+      "subtitle": "Finally, get into the habit of taking a warm bath or reading a book before bed."
+    },
+    {
+      "text": "మంచి నిద్ర మీ ఆరోగ్యం, ఉత్పాదకతకు చాలా ముఖ్యం. ఈ చిట్కాలను పాటించి, ప్రశాంతంగా నిద్రపోండి!",
+      "image_keyword": "person sleeping soundly",
+      "subtitle": "Good sleep is very important for your health and productivity. Follow these tips and sleep peacefully!"
     }
   ]
 }

@@ -1,44 +1,44 @@
 {
   "metadata": {
-    "title": "పెట్టుబడుల ప్రపంచం: ఎక్కడ ప్రారంభించాలి?",
-    "description": "పెట్టుబడుల ప్రపంచంలోకి అడుగు పెట్టడానికి మీకు అవసరమైన ప్రాథమిక సమాచారం. ఎక్కడ ప్రారంభించాలి, ఎలా తెలివిగా పెట్టుబడి పెట్టాలి? #InvestmentBasics #BeginnerInvesting #StockMarket #MutualFunds #TeluguInvesting",
-    "tags": ["telugu", "investing", "beginner", "stock market", "mutual funds", "financial growth", "shorts"]
+    "title": "డీహైడ్రేషన్ నివారణ: ఎందుకు, ఎలా నీళ్లు తాగాలి?",
+    "description": "డీహైడ్రేషన్ ప్రమాదాలను అర్థం చేసుకోండి మరియు తగినంత నీరు త్రాగడం ద్వారా మీ ఆరోగ్యాన్ని ఎలా కాపాడుకోవాలో తెలుసుకోండి. హైడ్రేటెడ్‌గా ఉండటం ఆరోగ్యానికి కీలకం! #HydrationTips #DrinkWater #Dehydration #TeluguHealth #WaterBenefits",
+    "tags": ["telugu", "hydration", "water", "health", "dehydration", "shorts"]
   },
   "scenes": [
     {
-      "text": "పెట్టుబడి పెట్టాలని ఆలోచిస్తున్నారా? ఎక్కడ ప్రారంభించాలో తెలియడం లేదా? ఈ వీడియో మీ కోసమే!",
-      "image_keyword": "person looking at investment options",
-      "subtitle": "Thinking of investing? Don't know where to start? This video is for you!"
+      "text": "మీరు తగినంత నీళ్లు తాగుతున్నారా? డీహైడ్రేషన్ ఎంత ప్రమాదమో తెలుసా? ఈ చిట్కాలు మీకు సహాయపడతాయి!",
+      "image_keyword": "person feeling thirsty",
+      "subtitle": "Are you drinking enough water? Do you know how dangerous dehydration is? These tips will help you!"
     },
     {
-      "text": "మొదట, పెట్టుబడి పెట్టడానికి ముందు మీ ఆర్థిక లక్ష్యాలను స్పష్టంగా నిర్దేశించుకోండి.",
-      "image_keyword": "target with money arrow",
-      "subtitle": "First, clearly define your financial goals before investing."
+      "text": "మొదట, నీళ్లు తాగడం వల్ల మీ శరీర ఉష్ణోగ్రత నియంత్రణలో ఉంటుంది, కీళ్లు ఆరోగ్యంగా ఉంటాయి.",
+      "image_keyword": "water molecule benefits",
+      "subtitle": "First, drinking water helps regulate your body temperature and keeps your joints healthy."
     },
     {
-      "text": "రెండవది, విభిన్న రకాల పెట్టుబడుల గురించి తెలుసుకోండి: స్టాక్స్, మ్యూచువల్ ఫండ్స్, రియల్ ఎస్టేట్ వంటివి.",
-      "image_keyword": "various investment icons",
-      "subtitle": "Second, learn about different types of investments: stocks, mutual funds, real estate, etc."
+      "text": "రెండవది, మీకు దాహం వేసినప్పుడు మాత్రమే కాకుండా, రోజంతా క్రమం తప్పకుండా నీళ్లు తాగండి.",
+      "image_keyword": "person drinking water regularly",
+      "subtitle": "Second, drink water regularly throughout the day, not just when you feel thirsty."
     },
     {
-      "text": "మూడవది, చిన్న మొత్తాలతో ప్రారంభించండి. ఒకేసారి పెద్ద మొత్తాలు పెట్టొద్దు.",
-      "image_keyword": "person putting small amount in investment jar",
-      "subtitle": "Third, start with small amounts. Don't put in large amounts all at once."
+      "text": "మూడవది, పండ్లు, కూరగాయలు వంటి నీటి శాతం అధికంగా ఉండే ఆహారాలను తీసుకోండి. పుచ్చకాయ, దోసకాయ వంటివి.",
+      "image_keyword": "fruits and vegetables with high water content",
+      "subtitle": "Third, eat foods with high water content like fruits and vegetables. Like watermelon, cucumber."
     },
     {
-      "text": "నాల్గవది, మీ పెట్టుబడులను వైవిధ్యపరచండి. ఒకేచోట మీ డబ్బు అంతా పెట్టకండి.",
-      "image_keyword": "diversified investment portfolio chart",
-      "subtitle": "Fourth, diversify your investments. Don't put all your money in one place."
+      "text": "నాలుగవది, వ్యాయామం చేసేటప్పుడు, వేడి వాతావరణంలో ఎక్కువ నీళ్లు తాగాలి. ఇది చాలా ముఖ్యం.",
+      "image_keyword": "person drinking water during exercise",
+      "subtitle": "Fourth, drink more water when exercising or in hot weather. This is very important."
     },
     {
-      "text": "చివరగా, నిపుణుల సలహా తీసుకోండి. వారు మీకు సరైన మార్గదర్శకత్వం ఇవ్వగలరు.",
-      "image_keyword": "financial advisor explaining investment to client",
-      "subtitle": "Finally, seek expert advice. They can provide you with the right guidance."
+      "text": "చివరగా, మీ మూత్రం రంగును గమనించండి. లేత పసుపు రంగులో ఉంటే, మీరు సరిపడా నీళ్లు తాగుతున్నట్లు.",
+      "image_keyword": "urine color chart for hydration",
+      "subtitle": "Finally, observe the color of your urine. If it's pale yellow, you're drinking enough water."
     },
     {
-      "text": "పెట్టుబడి పెట్టడం ద్వారా మీ డబ్బును పెంచుకోవచ్చు. జ్ఞానంతో, జాగ్రత్తగా అడుగు వేయండి!",
-      "image_keyword": "money growing tree",
-      "subtitle": "You can grow your money by investing. Step wisely and carefully with knowledge!"
+      "text": "హైడ్రేటెడ్‌గా ఉండటం ఆరోగ్యానికి పునాది. ప్రతిరోజూ నీటిని మీ బెస్ట్ ఫ్రెండ్‌గా చేసుకోండి!",
+      "image_keyword": "glass of water with happy face",
+      "subtitle": "Staying hydrated is the foundation of health. Make water your best friend every day!"
     }
   ]
 }

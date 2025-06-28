@@ -1,39 +1,44 @@
 {
   "metadata": {
-    "title": "డబ్బు ఆదా చేసే హ్యాక్స్: చిన్న మార్పులు - పెద్ద లాభాలు",
-    "description": "మీ రోజువారీ ఖర్చులను తగ్గించుకోవడానికి కొన్ని సింపుల్ హ్యాక్స్. ఈ చిన్న మార్పులు మీ ఆర్థిక భవిష్యత్తుకు ఎలా సహాయపడతాయో తెలుకోండి! #MoneySavingTips #FinancialHacks #Budgeting #TeluguFinance #SmartSpending",
-    "tags": ["telugu", "money saving", "financial hacks", "budgeting", "personal finance", "shorts"]
+    "title": "ఆరోగ్యంగా ఉండటానికి 5 సింపుల్ టిప్స్",
+    "description": "మీ దైనందిన జీవితంలో పాటించదగ్గ సులభమైన ఆరోగ్య చిట్కాలు. చిన్న మార్పులతో పెద్ద ఆరోగ్య ప్రయోజనాలను పొందండి! #HealthTips #DailyWellness #SimpleHealth #TeluguHealth #HealthyLiving",
+    "tags": ["telugu", "health", "wellness", "tips", "healthy living", "shorts"]
   },
   "scenes": [
     {
-      "text": "మీరు డబ్బు ఆదా చేయాలని చూస్తున్నారా? చిన్న చిన్న మార్పులతో పెద్ద లాభాలు ఎలా పొందవచ్చో చూద్దాం!",
-      "image_keyword": "piggy bank growing",
-      "subtitle": "Looking to save money? Let's see how small changes can lead to big profits!"
+      "text": "ఆరోగ్యంగా ఉండటానికి పెద్దగా కష్టపడాల్సిన అవసరం లేదు. ఈ ఐదు సులభమైన చిట్కాలు మీకెంతో సహాయపడతాయి!",
+      "image_keyword": "person doing simple exercises",
+      "subtitle": "You don't need to struggle much to stay healthy. These five simple tips will help you a lot!"
     },
     {
-      "text": "ముందుగా, మీ ఖర్చులను ట్రాక్ చేయండి. ఎక్కడికి ఎంత పోతుందో తెలిస్తేనే కదా, దాన్ని నియంత్రించగలం!",
-      "image_keyword": "person tracking expenses on laptop",
-      "subtitle": "First, track your expenses. Only when you know where your money is going, can you control it!"
+      "text": "మొదటిది, ప్రతిరోజూ కనీసం 30 నిమిషాలు వ్యాయామం చేయండి. నడక, జాగింగ్, లేదా యోగా ఏదైనా కావచ్చు.",
+      "image_keyword": "person walking in park",
+      "subtitle": "First, exercise for at least 30 minutes every day. It can be walking, jogging, or yoga."
     },
     {
-      "text": "రెండవది, అనవసరమైన సబ్‌స్క్రిప్షన్‌లను రద్దు చేయండి. చాలా మంది మర్చిపోయి డబ్బు కట్టేస్తుంటారు!",
-      "image_keyword": "scissors cutting subscription card",
-      "subtitle": "Second, cancel unnecessary subscriptions. Many people forget and keep paying!"
+      "text": "రెండవది, సమతుల్య ఆహారం తీసుకోండి. పండ్లు, కూరగాయలు, తృణధాన్యాలు మీ ప్లేట్‌లో ఉండాలి.",
+      "image_keyword": "colorful healthy food plate",
+      "subtitle": "Second, eat a balanced diet. Fruits, vegetables, and whole grains should be on your plate."
     },
     {
-      "text": "మూడవది, ఇంట్లోనే వండుకుని తినండి. బయట తినడం వల్ల ఎంత డబ్బు ఖర్చవుతుందో మీకు తెలుసు కదా?",
-      "image_keyword": "homemade meal vs restaurant bill",
-      "subtitle": "Third, cook and eat at home. You know how much money it costs to eat out, right?"
+      "text": "మూడవది, తగినంత నిద్రపోండి. రోజుకు 7-8 గంటల నిద్ర మీ శరీరాన్ని, మనస్సును రీఛార్జ్ చేస్తుంది.",
+      "image_keyword": "person sleeping peacefully",
+      "subtitle": "Third, get enough sleep. 7-8 hours of sleep a day recharges your body and mind."
     },
     {
-      "text": "చివరగా, ఎప్పుడు కొనాలన్నా తగ్గింపుల కోసం వెతకండి. చిన్న డిస్కౌంట్లు కూడా చాలా ఆదా చేస్తాయి!",
-      "image_keyword": "person looking for discounts online",
-      "subtitle": "Finally, always look for discounts when buying. Even small discounts save a lot!"
+      "text": "నాలుగవది, ఒత్తిడిని తగ్గించుకోండి. మెడిటేషన్, హాబీలు లేదా ప్రకృతిలో సమయం గడపడం సహాయపడుతుంది.",
+      "image_keyword": "person meditating peacefully",
+      "subtitle": "Fourth, reduce stress. Meditation, hobbies, or spending time in nature helps."
     },
     {
-      "text": "ఈ చిట్కాలు మీ ఆర్థిక ప్రయాణానికి ఎలా సహాయపడతాయో చూశారు కదా! ఇంకేమైనా హ్యాక్స్ కావాలా?",
-      "image_keyword": "person smiling with money in hand",
-      "subtitle": "You've seen how these tips can help your financial journey, right? Do you need any more hacks?"
+      "text": "చివరగా, నీళ్లు పుష్కలంగా తాగండి. మీ శరీరం హైడ్రేటెడ్‌గా ఉంటే, అనేక సమస్యలు దూరమవుతాయి.",
+      "image_keyword": "person drinking water",
+      "subtitle": "Finally, drink plenty of water. If your body is hydrated, many problems will go away."
+    },
+    {
+      "text": "ఈ చిన్న మార్పులతో ఆరోగ్యకరమైన, ఆనందకరమైన జీవితాన్ని గడపండి! మీకు ఇంకేమైనా ఆరోగ్య చిట్కాలు కావాలా?",
+      "image_keyword": "happy healthy person",
+      "subtitle": "Live a healthy and happy life with these small changes! Do you need any more health tips?"
     }
   ]
 }

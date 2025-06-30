@@ -1,44 +1,44 @@
 {
   "metadata": {
-    "title": "మానసిక ఆరోగ్యం: స్ట్రెస్ తగ్గించుకోవడం ఎలా?",
-    "description": "రోజువారీ ఒత్తిడిని సమర్థవంతంగా నిర్వహించడానికి మరియు మీ మానసిక ఆరోగ్యాన్ని పెంపొందించుకోవడానికి ప్రాక్టికల్ చిట్కాలు. ప్రశాంతమైన మనస్సు, ఆరోగ్యకరమైన జీవితం! #MentalHealth #StressRelief #Wellbeing #TeluguWellness #Mindfulness",
-    "tags": ["telugu", "mental health", "stress", "relaxation", "wellbeing", "shorts"]
+    "title": "నెమ్మదిగా ఉన్న కంప్యూటర్‌ను వేగవంతం చేయడం ఎలా? 5 హ్యాక్స్",
+    "description": "మీ కంప్యూటర్ నెమ్మదిగా ఉందా? దాని పనితీరును మెరుగుపరచడానికి మరియు వేగవంతం చేయడానికి ఈ సులభమైన హ్యాక్స్‌ను ప్రయత్నించండి! #PCHacks #SpeedUpPC #TechMaintenance #TeluguTech #ComputerTips",
+    "tags": ["telugu", "computer", "slow PC", "performance", "tech hacks", "shorts"]
   },
   "scenes": [
     {
-      "text": "ఈ రోజుల్లో ఒత్తిడి సర్వసాధారణం. కానీ దాన్ని ఎలా తగ్గించుకోవాలో తెలుసుకోవడం ముఖ్యం! మీ మానసిక ఆరోగ్యం కోసం ఈ చిట్కాలు.",
-      "image_keyword": "person feeling stressed",
-      "subtitle": "Stress is common these days. But it's important to know how to reduce it! Here are tips for your mental health."
+      "text": "మీ కంప్యూటర్ చాలా నెమ్మదిగా పనిచేస్తుందా? దాన్ని వేగవంతం చేయడానికి ఈ ఐదు హ్యాక్స్‌ను ప్రయత్నించండి!",
+      "image_keyword": "slow computer loading bar",
+      "subtitle": "Is your computer running very slowly? Try these five hacks to speed it up!"
     },
     {
-      "text": "మొదటిది, శారీరక శ్రమ చేయండి. వ్యాయామం ఎండార్ఫిన్లను విడుదల చేసి, మూడ్‌ను మెరుగుపరుస్తుంది.",
-      "image_keyword": "person exercising happily",
-      "subtitle": "First, engage in physical activity. Exercise releases endorphins and improves mood."
+      "text": "మొదటిది, అనవసరమైన ఫైల్‌లను, సాఫ్ట్‌వేర్‌లను డిలీట్ చేయండి. డిస్క్ స్పేస్ ఖాళీ చేయడం ముఖ్యం.",
+      "image_keyword": "deleting junk files on computer",
+      "subtitle": "First, delete unnecessary files and software. Freeing up disk space is important."
     },
     {
-      "text": "రెండవది, ధ్యానం లేదా మైండ్‌ఫుల్‌నెస్ ప్రాక్టీస్ చేయండి. ఇది మీ మనస్సును ప్రశాంతంగా ఉంచుతుంది.",
-      "image_keyword": "person meditating outdoors",
-      "subtitle": "Second, practice meditation or mindfulness. This keeps your mind calm."
+      "text": "రెండవది, స్టార్టప్ ప్రోగ్రామ్‌లను తగ్గించండి. కంప్యూటర్ ఆన్ చేసినప్పుడు ఆటోమేటిక్‌గా రన్ అయ్యేవి.",
+      "image_keyword": "computer startup programs",
+      "subtitle": "Second, reduce startup programs. These are programs that run automatically when the computer turns on."
     },
     {
-      "text": "మూడవది, ఇతరులతో మాట్లాడండి. స్నేహితులు, కుటుంబ సభ్యులు లేదా ఒక నిపుణుడితో మీ భావాలను పంచుకోండి.",
-      "image_keyword": "people talking and sharing",
-      "subtitle": "Third, talk to others. Share your feelings with friends, family, or a professional."
+      "text": "మూడవది, మీ హార్డ్ డ్రైవ్‌ను డీఫ్రాగ్మెంట్ చేయండి (HDD అయితే). SSD అయితే ఈ అవసరం లేదు.",
+      "image_keyword": "defragmenting hard drive",
+      "subtitle": "Third, defragment your hard drive (if it's an HDD). This is not needed for SSDs."
     },
     {
-      "text": "నాలుగవది, మీకంటూ సమయం కేటాయించుకోండి. మీకు నచ్చిన హాబీలు, పనులు చేయండి.",
-      "image_keyword": "person enjoying hobby",
-      "subtitle": "Fourth, set aside time for yourself. Do hobbies and activities you enjoy."
+      "text": "నాలుగవది, మీ వెబ్ బ్రౌజర్ క్యాష్, కుకీలను క్రమం తప్పకుండా క్లియర్ చేయండి. ఇది బ్రౌజింగ్‌ను వేగవంతం చేస్తుంది.",
+      "image_keyword": "clearing browser cache",
+      "subtitle": "Fourth, regularly clear your web browser's cache and cookies. This speeds up Browse."
     },
     {
-      "text": "చివరగా, కృతజ్ఞతతో ఉండండి. ప్రతిరోజూ మీరు కృతజ్ఞతతో ఉన్న 3 విషయాలను గుర్తుచేసుకోండి.",
-      "image_keyword": "person writing gratitude journal",
-      "subtitle": "Finally, be grateful. Every day, recall 3 things you are grateful for."
+      "text": "చివరగా, యాంటీవైరస్ సాఫ్ట్‌వేర్‌తో స్కాన్ చేయండి. వైరస్‌లు, మాల్వేర్ కూడా కంప్యూటర్‌ను నెమ్మదిస్తాయి.",
+      "image_keyword": "antivirus scanning computer",
+      "subtitle": "Finally, scan with antivirus software. Viruses and malware can also slow down the computer."
     },
     {
-      "text": "మానసిక ఆరోగ్యం శారీరక ఆరోగ్యం వలె ముఖ్యమైనది. మిమ్మల్ని మీరు జాగ్రత్తగా చూసుకోండి!",
-      "image_keyword": "healthy mind and body",
-      "subtitle": "Mental health is as important as physical health. Take good care of yourself!"
+      "text": "ఈ చిట్కాలతో మీ కంప్యూటర్‌ను మళ్ళీ వేగంగా మార్చండి, మీ పనిని సులభతరం చేసుకోండి!",
+      "image_keyword": "fast running computer",
+      "subtitle": "Make your computer fast again with these tips, and make your work easier!"
     }
   ]
 }

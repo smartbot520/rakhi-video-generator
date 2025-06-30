@@ -1,44 +1,44 @@
 {
   "metadata": {
-    "title": "డీహైడ్రేషన్ నివారణ: ఎందుకు, ఎలా నీళ్లు తాగాలి?",
-    "description": "డీహైడ్రేషన్ ప్రమాదాలను అర్థం చేసుకోండి మరియు తగినంత నీరు త్రాగడం ద్వారా మీ ఆరోగ్యాన్ని ఎలా కాపాడుకోవాలో తెలుసుకోండి. హైడ్రేటెడ్‌గా ఉండటం ఆరోగ్యానికి కీలకం! #HydrationTips #DrinkWater #Dehydration #TeluguHealth #WaterBenefits",
-    "tags": ["telugu", "hydration", "water", "health", "dehydration", "shorts"]
+    "title": "క్లౌడ్ స్టోరేజ్: ఎందుకు, ఎలా ఉపయోగించాలి?",
+    "description": "క్లౌడ్ స్టోరేజ్ అంటే ఏమిటి? మీ ఫైళ్లను ఆన్‌లైన్‌లో భద్రపరచడం వల్ల కలిగే ప్రయోజనాలు మరియు ఎలా సురక్షితంగా ఉపయోగించాలో తెలుసుకోండి! #CloudStorage #DataBackup #OnlineFiles #TeluguTech #DigitalLife",
+    "tags": ["telugu", "cloud storage", "backup", "files", "digital life", "shorts"]
   },
   "scenes": [
     {
-      "text": "మీరు తగినంత నీళ్లు తాగుతున్నారా? డీహైడ్రేషన్ ఎంత ప్రమాదమో తెలుసా? ఈ చిట్కాలు మీకు సహాయపడతాయి!",
-      "image_keyword": "person feeling thirsty",
-      "subtitle": "Are you drinking enough water? Do you know how dangerous dehydration is? These tips will help you!"
+      "text": "మీరు ఎప్పుడైనా 'క్లౌడ్ స్టోరేజ్' గురించి విన్నారా? మీ ఫైళ్లను ఆన్‌లైన్‌లో భద్రపరచడం ఎలాగో చూద్దాం!",
+      "image_keyword": "cloud storage icon",
+      "subtitle": "Have you ever heard of 'Cloud Storage'? Let's see how to save your files online!"
     },
     {
-      "text": "మొదట, నీళ్లు తాగడం వల్ల మీ శరీర ఉష్ణోగ్రత నియంత్రణలో ఉంటుంది, కీళ్లు ఆరోగ్యంగా ఉంటాయి.",
-      "image_keyword": "water molecule benefits",
-      "subtitle": "First, drinking water helps regulate your body temperature and keeps your joints healthy."
+      "text": "మొదటిది, క్లౌడ్ స్టోరేజ్ అంటే మీ ఫైల్‌లను ఇంటర్నెట్‌లో సురక్షితంగా నిల్వ చేయడం, మీ డివైజ్‌లో కాకుండా.",
+      "image_keyword": "files moving to cloud",
+      "subtitle": "First, cloud storage means securely storing your files on the internet, not on your device."
     },
     {
-      "text": "రెండవది, మీకు దాహం వేసినప్పుడు మాత్రమే కాకుండా, రోజంతా క్రమం తప్పకుండా నీళ్లు తాగండి.",
-      "image_keyword": "person drinking water regularly",
-      "subtitle": "Second, drink water regularly throughout the day, not just when you feel thirsty."
+      "text": "రెండవది, దీని వల్ల మీ ఫైళ్లు ఎక్కడ నుండైనా యాక్సెస్ చేయవచ్చు, మీరు ఏ డివైజ్‌లో ఉన్నా సరే.",
+      "image_keyword": "accessing files from multiple devices",
+      "subtitle": "Second, this allows you to access your files from anywhere, no matter which device you're on."
     },
     {
-      "text": "మూడవది, పండ్లు, కూరగాయలు వంటి నీటి శాతం అధికంగా ఉండే ఆహారాలను తీసుకోండి. పుచ్చకాయ, దోసకాయ వంటివి.",
-      "image_keyword": "fruits and vegetables with high water content",
-      "subtitle": "Third, eat foods with high water content like fruits and vegetables. Like watermelon, cucumber."
+      "text": "మూడవది, ఇది మీ డేటాకు ఒక బ్యాకప్ లాంటిది. మీ డివైజ్ పాడైపోయినా, ఫైళ్లు సురక్షితంగా ఉంటాయి.",
+      "image_keyword": "data backup to cloud",
+      "subtitle": "Third, it's like a backup for your data. Even if your device gets damaged, your files remain safe."
     },
     {
-      "text": "నాలుగవది, వ్యాయామం చేసేటప్పుడు, వేడి వాతావరణంలో ఎక్కువ నీళ్లు తాగాలి. ఇది చాలా ముఖ్యం.",
-      "image_keyword": "person drinking water during exercise",
-      "subtitle": "Fourth, drink more water when exercising or in hot weather. This is very important."
+      "text": "నాల్గవది, గూగుల్ డ్రైవ్, డ్రాప్‌బాక్స్, వన్‌డ్రైవ్ వంటి అనేక ఉచిత మరియు చెల్లింపు ఎంపికలు ఉన్నాయి.",
+      "image_keyword": "google drive dropbox onedrive logos",
+      "subtitle": "Fourth, there are many free and paid options like Google Drive, Dropbox, OneDrive."
     },
     {
-      "text": "చివరగా, మీ మూత్రం రంగును గమనించండి. లేత పసుపు రంగులో ఉంటే, మీరు సరిపడా నీళ్లు తాగుతున్నట్లు.",
-      "image_keyword": "urine color chart for hydration",
-      "subtitle": "Finally, observe the color of your urine. If it's pale yellow, you're drinking enough water."
+      "text": "చివరగా, మీ ముఖ్యమైన ఫైళ్లను క్లౌడ్‌లో సేవ్ చేయడం ద్వారా భవిష్యత్తులో నష్టాన్ని నివారించవచ్చు.",
+      "image_keyword": "secure files in cloud",
+      "subtitle": "Finally, saving your important files in the cloud can prevent loss in the future."
     },
     {
-      "text": "హైడ్రేటెడ్‌గా ఉండటం ఆరోగ్యానికి పునాది. ప్రతిరోజూ నీటిని మీ బెస్ట్ ఫ్రెండ్‌గా చేసుకోండి!",
-      "image_keyword": "glass of water with happy face",
-      "subtitle": "Staying hydrated is the foundation of health. Make water your best friend every day!"
+      "text": "క్లౌడ్ స్టోరేజ్‌తో మీ డిజిటల్ జీవితాన్ని సరళతరం చేసుకోండి, భద్రతను పెంచుకోండి!",
+      "image_keyword": "organized digital files",
+      "subtitle": "Simplify your digital life and enhance security with cloud storage!"
     }
   ]
 }

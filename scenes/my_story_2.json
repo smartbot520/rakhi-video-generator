@@ -1,44 +1,44 @@
 {
   "metadata": {
-    "title": "మంచి నిద్ర కోసం చిట్కాలు: ప్రశాంతమైన రాత్రి నిద్ర",
-    "description": "మీ నిద్ర నాణ్యతను మెరుగుపరచుకోవడానికి సులభమైన మరియు ప్రభావవంతమైన చిట్కాలు. మంచి నిద్రతో మీ ఆరోగ్యాన్ని మెరుగుపరుచుకోండి! #SleepTips #GoodSleep #InsomniaRelief #TeluguHealth #RestfulSleep",
-    "tags": ["telugu", "sleep", "insomnia", "rest", "health", "shorts"]
+    "title": "మీ డేటాను సురక్షితంగా ఉంచడం ఎలా? 5 ముఖ్యమైన టిప్స్",
+    "description": "ఆన్‌లైన్‌లో మీ వ్యక్తిగత సమాచారాన్ని మరియు డేటాను ఎలా రక్షించుకోవాలో తెలుసుకోండి. సైబర్ దాడుల నుండి మిమ్మల్ని మీరు కాపాడుకోవడానికి ఈ ముఖ్యమైన భద్రతా చిట్కాలు పాటించండి! #DataSecurity #OnlineSafety #CyberSecurity #TeluguTech #PrivacyTips",
+    "tags": ["telugu", "data security", "online safety", "cybersecurity", "privacy", "shorts"]
   },
   "scenes": [
     {
-      "text": "మంచి నిద్ర లేక ఇబ్బంది పడుతున్నారా? ప్రశాంతమైన రాత్రి నిద్ర కోసం ఈ చిట్కాలు పాటించండి!",
-      "image_keyword": "person struggling to sleep",
-      "subtitle": "Are you struggling to get good sleep? Follow these tips for a peaceful night's sleep!"
+      "text": "ఆన్‌లైన్‌లో మీ డేటా సురక్షితంగా ఉందా? మీ వ్యక్తిగత సమాచారాన్ని రక్షించుకోవడానికి ఈ ఐదు ముఖ్యమైన టిప్స్ పాటించండి!",
+      "image_keyword": "digital padlock on data",
+      "subtitle": "Is your data safe online? Follow these five important tips to protect your personal information!"
     },
     {
-      "text": "మొదట, రోజూ ఒకే సమయానికి పడుకుని, ఒకే సమయానికి లేవడానికి ప్రయత్నించండి. ఇది మీ శరీర గడియారాన్ని క్రమబద్ధీకరిస్తుంది.",
-      "image_keyword": "alarm clock with consistent sleep schedule",
-      "subtitle": "First, try to go to bed and wake up at the same time every day. This regulates your body clock."
+      "text": "మొదటిది, బలమైన, ప్రత్యేకమైన పాస్‌వర్డ్‌లను ఉపయోగించండి. పేర్లు, పుట్టిన తేదీలు కాకుండా క్లిష్టమైనవి.",
+      "image_keyword": "strong password example",
+      "subtitle": "First, use strong, unique passwords. Complex ones, not names or birth dates."
     },
     {
-      "text": "రెండవది, పడుకునే ముందు కెఫిన్, ఆల్కహాల్‌కు దూరంగా ఉండండి. ఇవి మీ నిద్రకు ఆటంకం కలిగించవచ్చు.",
-      "image_keyword": "no coffee before bed",
-      "subtitle": "Second, avoid caffeine and alcohol before bed. These can disrupt your sleep."
+      "text": "రెండవది, టూ-ఫ్యాక్టర్ అథెంటికేషన్ (2FA) ఎనేబుల్ చేయండి. ఇది మీ ఖాతాలకు అదనపు భద్రతను ఇస్తుంది.",
+      "image_keyword": "two factor authentication icon",
+      "subtitle": "Second, enable Two-Factor Authentication (2FA). This provides extra security for your accounts."
     },
     {
-      "text": "మూడవది, పడుకునే గది చీకటిగా, నిశ్శబ్దంగా, చల్లగా ఉండేలా చూసుకోండి. ఇది నిద్రకు అనుకూలమైన వాతావరణం.",
-      "image_keyword": "dark quiet cool bedroom",
-      "subtitle": "Third, make sure your bedroom is dark, quiet, and cool. This is a favorable environment for sleep."
+      "text": "మూడవది, అనుమానాస్పద లింక్‌లు లేదా అటాచ్‌మెంట్‌లను క్లిక్ చేయవద్దు. ఫిషింగ్ స్కామ్‌ల పట్ల జాగ్రత్తగా ఉండండి.",
+      "image_keyword": "phishing email warning",
+      "subtitle": "Third, do not click on suspicious links or attachments. Be careful of phishing scams."
     },
     {
-      "text": "నాలుగవది, పడుకునే ముందు ఫోన్, టీవీ వంటి ఎలక్ట్రానిక్ పరికరాలను వాడొద్దు. బ్లూ లైట్ నిద్రకు ఆటంకం.",
-      "image_keyword": "no phone before bed",
-      "subtitle": "Fourth, avoid using electronic devices like phones and TVs before bed. Blue light disrupts sleep."
+      "text": "నాలుగవది, మీ సాఫ్ట్‌వేర్‌ను ఎల్లప్పుడూ అప్‌డేట్‌గా ఉంచండి. అప్‌డేట్‌లు భద్రతా లోపాలను సరిచేస్తాయి.",
+      "image_keyword": "software update icon",
+      "subtitle": "Fourth, always keep your software updated. Updates fix security vulnerabilities."
     },
     {
-      "text": "చివరగా, పడుకునే ముందు గోరువెచ్చని నీటితో స్నానం చేయడం లేదా పుస్తకం చదవడం వంటివి అలవాటు చేసుకోండి.",
-      "image_keyword": "person reading book in bed",
-      "subtitle": "Finally, get into the habit of taking a warm bath or reading a book before bed."
+      "text": "చివరగా, పబ్లిక్ వైఫై ఉపయోగించినప్పుడు VPN వాడండి. ఇది మీ డేటాను గుప్తంగా ఉంచుతుంది.",
+      "image_keyword": "VPN shield on public wifi",
+      "subtitle": "Finally, use a VPN when using public Wi-Fi. This keeps your data private."
     },
     {
-      "text": "మంచి నిద్ర మీ ఆరోగ్యం, ఉత్పాదకతకు చాలా ముఖ్యం. ఈ చిట్కాలను పాటించి, ప్రశాంతంగా నిద్రపోండి!",
-      "image_keyword": "person sleeping soundly",
-      "subtitle": "Good sleep is very important for your health and productivity. Follow these tips and sleep peacefully!"
+      "text": "ఈ చిట్కాలతో ఆన్‌లైన్‌లో సురక్షితంగా ఉండండి, మీ డేటాను రక్షించుకోండి!",
+      "image_keyword": "cybersecurity shield",
+      "subtitle": "Stay safe online with these tips, and protect your data!"
     }
   ]
 }

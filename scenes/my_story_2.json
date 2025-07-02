@@ -1,44 +1,44 @@
 {
   "metadata": {
-    "title": "మీ డేటాను సురక్షితంగా ఉంచడం ఎలా? 5 ముఖ్యమైన టిప్స్",
-    "description": "ఆన్‌లైన్‌లో మీ వ్యక్తిగత సమాచారాన్ని మరియు డేటాను ఎలా రక్షించుకోవాలో తెలుసుకోండి. సైబర్ దాడుల నుండి మిమ్మల్ని మీరు కాపాడుకోవడానికి ఈ ముఖ్యమైన భద్రతా చిట్కాలు పాటించండి! #DataSecurity #OnlineSafety #CyberSecurity #TeluguTech #PrivacyTips",
-    "tags": ["telugu", "data security", "online safety", "cybersecurity", "privacy", "shorts"]
+    "title": "ఇండియాలో లాభదాయకమైన గ్రామీణ వ్యాపారాలు (Rural Business Ideas)",
+    "description": "భారతదేశంలోని గ్రామీణ ప్రాంతాల్లో అధిక లాభాలను ఆర్జించగల వ్యాపార అవకాశాలను అన్వేషించండి. స్థానిక వనరులు మరియు నైపుణ్యాలను ఉపయోగించుకోండి! #RuralBusiness #AgriBusiness #VillageEconomy #TeluguBusiness #LocalProducts",
+    "tags": ["telugu", "rural business", "india", "agriculture", "village economy", "shorts"]
   },
   "scenes": [
     {
-      "text": "ఆన్‌లైన్‌లో మీ డేటా సురక్షితంగా ఉందా? మీ వ్యక్తిగత సమాచారాన్ని రక్షించుకోవడానికి ఈ ఐదు ముఖ్యమైన టిప్స్ పాటించండి!",
-      "image_keyword": "digital padlock on data",
-      "subtitle": "Is your data safe online? Follow these five important tips to protect your personal information!"
+      "text": "గ్రామీణ ప్రాంతాల్లో నివసిస్తున్నారా లేదా అక్కడ వ్యాపారం చేయాలని చూస్తున్నారా? ఇండియాలో లాభదాయకమైన గ్రామీణ వ్యాపారాలు ఇక్కడ ఉన్నాయి!",
+      "image_keyword": "rural India landscape with village",
+      "subtitle": "Do you live in rural areas or are you looking to do business there? Here are profitable rural businesses in India!"
     },
     {
-      "text": "మొదటిది, బలమైన, ప్రత్యేకమైన పాస్‌వర్డ్‌లను ఉపయోగించండి. పేర్లు, పుట్టిన తేదీలు కాకుండా క్లిష్టమైనవి.",
-      "image_keyword": "strong password example",
-      "subtitle": "First, use strong, unique passwords. Complex ones, not names or birth dates."
+      "text": "మొదటిది, సేంద్రీయ వ్యవసాయం. సేంద్రీయ ఉత్పత్తులకు నగరాల్లో డిమాండ్ పెరుగుతోంది, ఇది మంచి ఆదాయ వనరు.",
+      "image_keyword": "organic farming field",
+      "subtitle": "First, organic farming. Demand for organic products is growing in cities, making it a good source of income."
     },
     {
-      "text": "రెండవది, టూ-ఫ్యాక్టర్ అథెంటికేషన్ (2FA) ఎనేబుల్ చేయండి. ఇది మీ ఖాతాలకు అదనపు భద్రతను ఇస్తుంది.",
-      "image_keyword": "two factor authentication icon",
-      "subtitle": "Second, enable Two-Factor Authentication (2FA). This provides extra security for your accounts."
+      "text": "రెండవది, పాల ఉత్పత్తి మరియు విక్రయం. ఇది చాలా కాలంగా లాభదాయకమైన వ్యాపారం, స్థిరమైన డిమాండ్ ఉంటుంది.",
+      "image_keyword": "dairy farming cows",
+      "subtitle": "Second, dairy production and sales. This has been a profitable business for a long time, with steady demand."
     },
     {
-      "text": "మూడవది, అనుమానాస్పద లింక్‌లు లేదా అటాచ్‌మెంట్‌లను క్లిక్ చేయవద్దు. ఫిషింగ్ స్కామ్‌ల పట్ల జాగ్రత్తగా ఉండండి.",
-      "image_keyword": "phishing email warning",
-      "subtitle": "Third, do not click on suspicious links or attachments. Be careful of phishing scams."
+      "text": "మూడవది, పౌల్ట్రీ ఫామింగ్ లేదా ఫిష్ ఫామింగ్. తక్కువ స్థలంలో ఎక్కువ ఆదాయాన్నిచ్చే వ్యాపారం ఇది.",
+      "image_keyword": "poultry farm chickens",
+      "subtitle": "Third, poultry farming or fish farming. This is a business that yields high income in less space."
     },
     {
-      "text": "నాలుగవది, మీ సాఫ్ట్‌వేర్‌ను ఎల్లప్పుడూ అప్‌డేట్‌గా ఉంచండి. అప్‌డేట్‌లు భద్రతా లోపాలను సరిచేస్తాయి.",
-      "image_keyword": "software update icon",
-      "subtitle": "Fourth, always keep your software updated. Updates fix security vulnerabilities."
+      "text": "నాల్గవది, స్థానిక చేతివృత్తుల ఉత్పత్తుల విక్రయం. చేనేత, కుండలు, బొమ్మలు వంటివి ఆన్‌లైన్‌లో కూడా అమ్మవచ్చు.",
+      "image_keyword": "indian handmade crafts",
+      "subtitle": "Fourth, selling local handicraft products. Handlooms, pottery, toys, etc., can also be sold online."
     },
     {
-      "text": "చివరగా, పబ్లిక్ వైఫై ఉపయోగించినప్పుడు VPN వాడండి. ఇది మీ డేటాను గుప్తంగా ఉంచుతుంది.",
-      "image_keyword": "VPN shield on public wifi",
-      "subtitle": "Finally, use a VPN when using public Wi-Fi. This keeps your data private."
+      "text": "చివరగా, చిన్న కిరాణా దుకాణం లేదా జనరల్ స్టోర్. గ్రామంలోని నిత్యావసరాలను తీర్చడం ఎప్పుడూ లాభదాయకమే.",
+      "image_keyword": "small village general store",
+      "subtitle": "Finally, a small grocery store or general store. Meeting daily needs in a village is always profitable."
     },
     {
-      "text": "ఈ చిట్కాలతో ఆన్‌లైన్‌లో సురక్షితంగా ఉండండి, మీ డేటాను రక్షించుకోండి!",
-      "image_keyword": "cybersecurity shield",
-      "subtitle": "Stay safe online with these tips, and protect your data!"
+      "text": "గ్రామీణ ప్రాంతాల్లో అపారమైన అవకాశాలు ఉన్నాయి. మీ ఆసక్తిని బట్టి సరైన వ్యాపారాన్ని ఎంచుకోండి!",
+      "image_keyword": "growth in rural economy",
+      "subtitle": "There are immense opportunities in rural areas. Choose the right business based on your interest!"
     }
   ]
 }
